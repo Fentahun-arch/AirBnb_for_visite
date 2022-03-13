@@ -1,0 +1,12 @@
+{
+    "git.ignoreLimitWarning": true,
+    "emmet.excludeLanguages": [
+        "markdown"
+    ],
+    "emmet.includeLanguages": {
+        "javascript":"javascriptreact"
+    },
+    "emmet.showExpandedAbbreviation": "always",
+    "emmet.showAbbreviationSuggestions": true,
+    "emmet.optimizeStylesheetParsing": true,
+}
