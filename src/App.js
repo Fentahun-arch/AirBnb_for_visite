@@ -5,7 +5,7 @@ import {BrowserRouter as Router, Switch, Route} from 'react-router-dom';
 
 function App() {
    
-
+// This is only for git checking purpose.
 const[cursorX,setCursorX]=useState();
   const[cursorY,setCursorY]=useState();
      window.addEventListener('mousemove',(e)=>{
